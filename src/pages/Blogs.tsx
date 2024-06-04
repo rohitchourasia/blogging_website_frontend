@@ -1,4 +1,4 @@
-import App from "../App";
+
 import Appbar from "../components/Appbar";
 import BlogCard from "../components/BlogCard";
 import BlogSkeleton from "../components/BlogSkeleton";
